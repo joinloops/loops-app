@@ -2,7 +2,9 @@
 
 # Loops Mobile App
 
-This is the mobile app source that uses the [Loops](https://loops.video) service.
+This is the mobile app source that uses the [Loops](https://loops.video) service. 
+
+### If you are looking to self-host Loops, please see the [loops-server](https://github.com/joinloops/loops-server) repository.
 
 ## Prerequisites
 * Node.js (version 16 or newer)
